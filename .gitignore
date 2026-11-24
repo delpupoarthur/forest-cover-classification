@@ -229,3 +229,4 @@ submission*.csv
 
 # Contexto local do assistente
 CLAUDE.md
+.claude/
